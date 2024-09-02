@@ -6,7 +6,7 @@ https://66d62f1c61a09e5c17640da6--coruscating-fox-28b689.netlify.app/
 
 step-1] make a folder in the desktop and open that folder in vscode
 
-step-2] open the vscode terminal and run   cd TechEnthusiast-club-website
+step-2] open the vscode terminal and run   cd TechClub
 
 step-3] now run the command npm install
 

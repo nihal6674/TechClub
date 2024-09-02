@@ -1,6 +1,6 @@
 Link to the site
 
-https://66d62f1c61a09e5c17640da6--coruscating-fox-28b689.netlify.app/
+https://66d636c2e19000638160ed69--silver-sawine-3ea345.netlify.app/
 
 #Installation and running the application
 

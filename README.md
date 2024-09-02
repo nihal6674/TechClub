@@ -1,3 +1,7 @@
+Link to the site
+
+https://66d62f1c61a09e5c17640da6--coruscating-fox-28b689.netlify.app/
+
 #Installation and running the application
 
 step-1] make a folder in the desktop and open that folder in vscode

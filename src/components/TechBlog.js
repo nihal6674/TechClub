@@ -10,6 +10,26 @@ import blogImage6 from '../components/blog6.png';
 const TechBlog = () => {
   const blogPosts = [
     {
+      title: 'Getting Started with TypeScript',
+      description: 'An introduction to TypeScript and its benefits over JavaScript.',
+      content: `TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript. It introduces static typing to the language, which can help catch errors early in the development process. 
+        Key features include type annotations, interfaces, and generics. TypeScript enhances code readability and maintainability, making it a popular choice for large-scale applications.`,
+      image: blogImage4,
+      link: '#',
+    },
+    
+     {
+      title: 'Tailwind CSS Tips and Tricks',
+      description: 'Learn how to make the most of Tailwind CSS in your projects.',
+      content: `Tailwind CSS is a utility-first CSS framework that allows for rapid UI development. 
+        By using utility classes, you can build custom designs without writing custom CSS. 
+        Some tips for using Tailwind effectively include using responsive utilities, leveraging the configuration file for custom themes, 
+        and utilizing built-in components for faster development.`,
+      image: blogImage3,
+      link: '#',
+    },
+    
+    {
       title: 'Understanding React Hooks',
       description: 'A deep dive into React Hooks, including useState and useEffect.',
       content: `React Hooks were introduced in React 16.8 to help developers use state and other React features without writing a class. 
@@ -27,24 +47,7 @@ const TechBlog = () => {
       image: blogImage2,
       link: '#',
     },
-    {
-      title: 'Tailwind CSS Tips and Tricks',
-      description: 'Learn how to make the most of Tailwind CSS in your projects.',
-      content: `Tailwind CSS is a utility-first CSS framework that allows for rapid UI development. 
-        By using utility classes, you can build custom designs without writing custom CSS. 
-        Some tips for using Tailwind effectively include using responsive utilities, leveraging the configuration file for custom themes, 
-        and utilizing built-in components for faster development.`,
-      image: blogImage3,
-      link: '#',
-    },
-    {
-      title: 'Getting Started with TypeScript',
-      description: 'An introduction to TypeScript and its benefits over JavaScript.',
-      content: `TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript. It introduces static typing to the language, which can help catch errors early in the development process. 
-        Key features include type annotations, interfaces, and generics. TypeScript enhances code readability and maintainability, making it a popular choice for large-scale applications.`,
-      image: blogImage4,
-      link: '#',
-    },
+   
     {
       title: 'Modern CSS Grid Layout',
       description: 'A guide to using CSS Grid Layout for creating responsive web designs.',

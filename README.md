@@ -1,3 +1,14 @@
+#Installation and running the application
+
+step-1] make a folder in the desktop and open that folder in vscode
+
+step-2] open the vscode terminal and run   cd TechEnthusiast-club-website
+
+step-3] now run the command npm install
+
+step-4] now run npm start and the server will get started and you will be directed to the website page
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
